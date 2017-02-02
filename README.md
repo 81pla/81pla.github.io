@@ -1,2 +1,1 @@
-# 81pla.github.io
-81PLA.CN GITHUB
+MIRRORS.81PLA.CN
